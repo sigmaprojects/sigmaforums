@@ -1,0 +1,24 @@
+/* Simple scalable breadcrumb by Veerle Pieters
+------------------------------------------------------------------*/
+#crumbs ul, #crumbs li {
+	list-style-type:none;
+	padding:0;
+	margin:0;
+	font:71%/165% "Lucida Grande", Lucida, Verdana, sans-serif;
+	}		
+#crumbs {
+	height:2.0em;
+	border:1px solid #dedede;
+	/*border:none;*/
+	}
+#crumbs li {
+	float:left;
+	line-height:2.8em;
+	color:#777;
+	padding-left:.75em;
+	}		
+#crumbs li a {
+	background:url(../images/styles/default/crumbs.gif) no-repeat right center;
+	display:block;
+	padding:0 15px 0 0;
+}

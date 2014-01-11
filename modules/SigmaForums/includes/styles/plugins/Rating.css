@@ -1,0 +1,6 @@
+
+.rating-container { position:absolute; top:-8px; right:3px; padding-left:3px; }
+.rating-container .neutral {color:#999;} 
+.rating_positive {color:#718f92;} 
+.rating_negative {color:#ba3900}
+.rating_neutral {color:#999;} 

@@ -1,0 +1,25 @@
+.pagingTabs{
+	font-size: .8em;
+	text-align: left;
+	margin: 5px 10px 5px 10px;
+}
+.pagingTabs a{
+	color: #000;
+	padding: 2px 4px;
+	background-color: #fff;
+	border: 1px solid #ccc;
+	margin-left: 2px;
+}
+.pagingTabs a:hover{
+	color: #000;
+	background-color: #FCF9C3;
+	border: 1px solid black;
+}
+.pagingTabs a.selected{
+	color: #000;
+	background-color: #FCF9C3;
+	border: 1px solid #AF3D15;
+}
+.pagingTabsCarrousel{
+	margin-top:5px;
+}
